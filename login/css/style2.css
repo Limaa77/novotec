@@ -1,0 +1,68 @@
+
+
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: black;
+    height: 190px;
+}
+
+.cabecalho
+{
+    width: 250px;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+Form {
+width: 330px;
+padding: 100px;
+background-color: rgb(255, 255, 255);
+text-align: left;
+border: 10%; margin:200px auto;
+display: flex; flex-direction: column;
+box-shadow: 15px 15px 10px 20px gray;
+
+}
+
+label { font-size: 16px;}
+
+.campos input
+{ 
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+    /*height: 300px; */
+}
+
+button
+{
+    padding: 10px;
+    width: 335px;
+    border-radius: 15px; color: rgb(255, 255, 255); background-color: rgb(123, 55, 212); margin: 0 auto;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.GOOGLE {
+width: 200px;
+background-color: rgb(255, 255, 255);
+border-radius: 15px; color: black ;
+font-size: 15px;
+margin-top: 0px;
+padding: 0px;
+
+
+}
+
+
+      
+
+h1
+{ text-align: center;}
